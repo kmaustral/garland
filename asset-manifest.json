@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/garland/static/css/main.981ecffb.chunk.css",
+    "main.js": "/garland/static/js/main.af67a2ef.chunk.js",
+    "main.js.map": "/garland/static/js/main.af67a2ef.chunk.js.map",
+    "runtime-main.js": "/garland/static/js/runtime-main.21cd34a7.js",
+    "runtime-main.js.map": "/garland/static/js/runtime-main.21cd34a7.js.map",
+    "static/js/2.c430ff2d.chunk.js": "/garland/static/js/2.c430ff2d.chunk.js",
+    "static/js/2.c430ff2d.chunk.js.map": "/garland/static/js/2.c430ff2d.chunk.js.map",
+    "static/js/3.6c7daf38.chunk.js": "/garland/static/js/3.6c7daf38.chunk.js",
+    "static/js/3.6c7daf38.chunk.js.map": "/garland/static/js/3.6c7daf38.chunk.js.map",
+    "index.html": "/garland/index.html",
+    "static/css/main.981ecffb.chunk.css.map": "/garland/static/css/main.981ecffb.chunk.css.map",
+    "static/js/2.c430ff2d.chunk.js.LICENSE.txt": "/garland/static/js/2.c430ff2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21cd34a7.js",
+    "static/js/2.c430ff2d.chunk.js",
+    "static/css/main.981ecffb.chunk.css",
+    "static/js/main.af67a2ef.chunk.js"
+  ]
+}
